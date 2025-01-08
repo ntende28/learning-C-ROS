@@ -13,3 +13,5 @@
 
 # Debugging files
 *.dSYM/
+
+tokens.txt
