@@ -1,0 +1,15 @@
+# Object files
+*.o
+
+# Compiled binary files
+*.out
+*.exe
+
+# Libraries
+*.a
+*.so
+*.dll
+*.dylib
+
+# Debugging files
+*.dSYM/
