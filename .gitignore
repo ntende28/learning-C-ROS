@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Object files
 *.o
 
@@ -14,3 +15,22 @@
 # Debugging files
 *.dSYM/
 
+=======
+# Object files
+*.o
+
+# Compiled binary files
+*.out
+*.exe
+
+# Libraries
+*.a
+*.so
+*.dll
+*.dylib
+
+# Debugging files
+*.dSYM/
+
+tokens.txt
+>>>>>>> 08cc8801ee7a54a0fd408d42067b4b7409db67dd
