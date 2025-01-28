@@ -1,5 +1,6 @@
 # Object files
 *.o
+prog
 
 # Compiled binary files
 *.out
@@ -15,3 +16,6 @@
 *.dSYM/
 
 *.txt
+
+#vscode-stuff
+.vscode/*
